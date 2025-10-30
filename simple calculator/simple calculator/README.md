@@ -11,4 +11,4 @@ It runs continuously until the user chooses to exit.
 
 ## How to Run
 ```bash
-python calculator.py
+python simple calculator.py
